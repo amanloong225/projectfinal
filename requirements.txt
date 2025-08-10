@@ -1,0 +1,7 @@
+dash
+flask
+flask-cors
+pandas
+plotly
+dash-bootstrap-components
+gunicorn
